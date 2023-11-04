@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "1",
+    "name": "HP Laptop 15s",
+    "company": "hp",
+    "image": "https://m.media-amazon.com/images/I/71WDKRWNdaL._SX679_.jpg",
+    "price": 49990,
+    "description": "Upgraded memory and storage:8GB DDR4 RAM integrates a higher-bandwidth memory for smooth functioning. The high-speed 512GB PCIe NVMe M.2 SSD creates more room to work with ample of storage.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "2",
+    "name": "HP Laptop 15",
+    "company": "hp",
+    "image": "https://m.media-amazon.com/images/I/41JDEdq1dhL._SX300_SY300_QL70_FMwebp_.jpg",
+    "price": 36990,
+    "description": "Upgraded memory and storage:8GB LPDDR5 RAM enables you to run your applications smoothly and browse multiple tabs. 512GB PCIe NVMe M.2 SSD boots up your system in seconds for enhanced efficiency.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "3",
+    "name": "HP Laptop 14",
+    "company": "hp",
+    "image": "https://m.media-amazon.com/images/I/71autn2SMlL._SX679_.jpg",
+    "price": 36990,
+    "description": "Upgraded memory and storage:8GB DDR4 RAM is designed to run multiple applications efficiently and reliably at fast speed. 512GB PCIe NVMe M.2 SSD gives you more room to work seamlessly.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "4",
+    "name": "HP Laptop 14s",
+    "company": "hp",
+    "image": "https://m.media-amazon.com/images/I/71vW1oV0iZL._SX679_.jpg",
+    "price": 38990,
+    "description": "Upgraded memory and storage:8GB DDR4 RAM helps you run multiple applications efficiently and reliably at fast speed. 512GB PCIe NVMe M.2 SSD creates more room for you to work with ample storage.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "5",
+    "name": "Hp Pavilion X360",
+    "company": "hp",
+    "image": "https://m.media-amazon.com/images/I/71GdYabc8jL._SX679_.jpg",
+    "price": 54070,
+    "description": "8GB DDR4 RAM allows smooth multitasking and improved application performance. The 512GB PCle NVMe M.2 SSD provides immense storage for all your files and data.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "6",
+    "name": "HP Pavilion 14",
+    "company": "hp",
+    "image": "https://m.media-amazon.com/images/I/71qYI+RGdcL._SX679_.jpg",
+    "price": 68990,
+    "description": "12 threads and 12MB L3 cache deliver superior performance with fast processing speeds. Immerse yourself in vivid visuals with the Intel Iris Xᵉ graphics.16GB DDR4 RAM operates multiple applications with a higher-bandwidth memory and the 512GB PCle NVMe M.2 SSD accelerates your workflow with a large storage capacity.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "7",
+    "name": "HP Pavilion 15",
+    "company": "hp",
+    "image": "https://m.media-amazon.com/images/I/71osgtCE8JL._SX679_.jpg",
+    "price": 58490,
+    "description": "12 threads with up to 4.3 GHz max boost clock and 16MB L3 cache deliver blazing-fast processing speeds. Immerse yourself in vivid visuals with AMD Radeon graphics.16GB DDR4 RAM operates multiple applications with a higher-bandwidth memory and the 512GB PCle NVMe M.2 SSD accelerates your workflow with a large storage capacity.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "8",
+    "name": "HP Pavilion 17 ",
+    "company": "hp",
+    "image": "https://m.media-amazon.com/images/I/71HmDkflhuL._SX679_.jpg",
+    "price": 12184,
+    "description": "17.3/'' diagonal, FHD (1920 x 1080), IPS, anti-glare, 300 nits, 100% sRGB, Integrated Intel Iris Xáµ‰Graphics for 11th Gen Intel Processors.upgraded to 20GB memory for better multitasking. Hard Drive is upgrade to 1TB PCIe SSD. 1TB PCIe SSD(Solid State Drive) has faster data access speed, better performance and greater reliability.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "9",
+    "name": "HP Pavilion Gaming ",
+    "company": "hp",
+    "image": "https://m.media-amazon.com/images/I/51SK9O-pKrL._SX679_.jpg",
+    "price": 57990,
+    "description": "Built with the powerful 5th Gen AMD Ryzen 5 5600H, The HP Pavilion Gaming Laptop comes with 8 GB DDR4-3200 MHz RAM, upgradable upto 32 GB, offering a seamless gaming experience that’s compatible with all your favourite games. Experience incredible visuals to elevate all of your gameplay with NVIDIA GeForce GTX 1650 graphics.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "10",
+    "name": "HP Chromebook",
+    "company": "hp",
+    "image": "https://m.media-amazon.com/images/I/71V4DKmO5XL._SX679_.jpg",
+    "price": 22990,
+    "description": " Intel Celeron N4120 (1.1 GHz base frequency(2b),up to 2.8 GHz burst frequency(2c), 4 MB L2 cache, 2 cores) | Memory & Storage: 4 GB LPDDR4-2400 MHz RAM (onboard) |64 GB eMMC, 100 GB Google Cloud storage (1 year).35.6 cm (14) diagonal, HD touch, micro-edge, BrightView, 220 nits, 1366 x 768, 45% NTSC| Graphics: Intel UHD Graphics.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "11",
+    "name": "ASUS ZenBook Duo UX482",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/81q445q8JqL._SX679_.jpg",
+    "price": 17019,
+    "description": "Tilting ScreenPad Plus: 12.6 inch matte touchscreen, giving your endless way to optimize your multitasking experience by extending the screen or split windows and apps on both displays. 14 inch Full HD NanoEdge touchscreen glossy main display.Intel Evo Platform - perfect combination of performance, responsiveness and battery life. Amazing performance with the 11th Gen Intel Core i7 processor. Vivid colors with Intel Iris Xe graphics. Fast-charging, long-lasting battery.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "12",
+    "name": "ASUS ZenBook Pro Duo(UX581)",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/91VR2ZXL9LL._SX679_.jpg",
+    "price": 12799,
+    "description": "This Renewed product is tested to work and look like new with minimal to no signs of wear & tear; the product comes with relevant accessories and is backed by a minimum six month seller warranty; box may be generic. Intel Core i7-9750H Processor 2.6 GHz (12M Cache, up to 4.5 GHz, 6 cores)",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "13",
+    "name": "ASUS ZenBook Pro Duo 15",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/81J9wwm9WxL._SX679_.jpg",
+    "price": 35272,
+    "description": "Complimentary 3-month Adobe Creative Cloud subscription with the purchase. Learn more on ASUS website for more details. ScreenPad Plus: 14 inch 4K matte touchscreen, giving your endless way to optimize your multitasking experience by extending the screen or split windows and apps on both displays.15.6 inch OLED 4K (3840 x 2160) NanoEdge touch screen glossy main display.12th generation Intel Core i9-12900H Processor and NVIDIA GeForce RTX 3060 Laptop GPU with 6GB VRAM – NVIDIA Studio Ready",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "14",
+    "name": "ASUS ZenBook Duo 14",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/71uuDYxn3XL._SX522_.jpg",
+    "price": 49999,
+    "description": "",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "15",
+    "name": "ASUS ZenBook Duo UX481",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/81PGX7kO4kL._SX679_.jpg",
+    "price": 17022,
+    "description": "ScreenPad Plus: 12.6 inch matte touchscreen, giving your endless way to optimize your multitasking experience by extending the screen or split windows and apps on both displays.14 inch Full HD NanoEdge touchscreen glossy main display.Latest 10th generation Intel Core i7-10510U Processor (8M Cache, up to 4.9 GHz). Fast storage and memory featuring 512GB PCIe NVMe M.2 SSD with 8GB LPDDR3 RAM",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "16",
+    "name": "ASUS Vivobook S 15 OLED",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/71eQy-sS8GL._SX679_.jpg",
+    "price": 10499,
+    "description": "Processor: Intel Core i9-13900H Processor 2.6 GHz (24MB Cache, up to 5.4 GHz, 14 cores, 20 Threads).Memory: 16GB LPDDR5 6400MHz on board with | Storage: 1TB M.2 NVMe PCIe 4.0 SSD. Display: 15.6-inch (39.62 cm) 2.8K (2880 x 1620) OLED 16:9 aspect ratio, 120Hz refresh rate Display, 0.2ms response time 600nits HDR peak brightness VESA CERTIFIED Display HDR True Black 600 100% DCI-P3 color gamut PANTONE Validated Glossy display.Graphics: Integrated Integrated Intel Iris Xe Graphics.Operating System: Windows 11 Home with lifetime validity | Software Included: Pre-Installed Office Home and Student 2021 | 1-Year McAfee Anti-Virus",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "17",
+    "name": "Asus ZenBook Flip 13 (UX362)",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/71XFkFyRL6L._SX679_.jpg",
+    "price": 84990,
+    "description": "Processor: 11th Gen Intel Core i5-1135G7 Processor, 2.4 GHz Base Speed, Up to 4.2 GHz Turbo Boost Speed, 4 Cores, 8 Threads, 6MB Cache.Memory: 16GB onboard LPDDR4X 4266MHz RAM with | Storage: 512GB M.2 NVMe PCIe SSD.Graphics: Integrated Intel Iris Xᵉ Graphics. Display: Touch screen, 13.3-inch, OLED, FHD (1920 x 1080) 16:9, Glossy display, 400nits, DCI-P3: 100%, Pantone Validated, Screen-to-body ratio: 80%, With stylus support.Operating System: Pre-loaded Windows 11 Home with lifetime validity | Software Included: Pre-installed MS Office Home and Student 2021 with lifetime validity",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "18",
+    "name": "Asus ZenBook Flip 14 (UX461)",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/813Ami4bOuL._SX679_.jpg",
+    "price": 95050,
+    "description": "Processor: 12th Gen Intel Core i5-12500H, 2.5 GHz Base Speed, 18MB Cache, Up to 4.5 GHz Max Turbo Speed, 4P+8E cores).Memory: 16GB LPDDR4X onboard | Storage: 512GB M.2 NVMe PCIe 3.0 SSD.Display: 14.0-inch (35.56 cms), 2.8K (2880 x 1800) OLED 16:10 aspect ratio, LED Backlit, 0.2ms response time, 90Hz refresh rate, Touch screen, Glossy display, 100% DCI-P3 color gamut, PANTONE Validated.Graphics: Integrated Intel Iris Xe Graphics.Operating System: Pre-loaded Windows 11 Home with lifetime validity | Software Included: Pre-installed Office Home and Student 2021 with Lifetime Validity.Design & Battery: 1.59 cm Thin | Metallic Chassis | Thin and Light Laptop | Laptop weight: 1.4 kg | 63WHrs, 3-cell Li-ion battery | Up to 10 hours battery life ;Note: Battery life depends on conditions of usage",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "19",
+    "name": "ASUS Zenbook S 13 OLED",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/71HirpAPlSL._SX679_.jpg",
+    "price": 11990,
+    "description": "Processor: Intel Core i7-1355U Processor 1.7 GHz (12MB Cache, up to 5.0 GHz, 10 cores, 12 Threads).Memory: 16GB LPDDR5 6400MHz on board with | Storage: 1TB M.2 NVMe PCIe 4.0 Performance SSD. Display: 13.3-inch (33.78 cm) 2.8K (2880 x 1800) OLED 16:10 aspect ratio, 60Hz refresh rate Display, 0.2ms response time 550nits HDR peak brightness VESA CERTIFIED Display HDR True Black 500 100% DCI-P3 color gamut PANTONE Validated Glossy display.Graphics: Integrated Integrated Intel Iris Xe Graphics.Operating System: Windows 11 Home with lifetime validity | Software Included: Pre-Installed Office Home and Student 2021 | 1-Year McAfee Anti-Virus",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "20",
+    "name": "Asus ZenBook Flip UX560",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/71zJNkAPiBL._SX679_.jpg",
+    "price": 17521,
+    "description": "14-inch WQXGA+ (2880 x 1800) OLED NanoEdge touchscreen, with an expansive 16:10 aspect ratio, the main touchscreen is Dolby Vision certified and PANTONE Validated to ensure accurate color rendering.Intel Evo Platform - The perfect combination of performance, responsiveness, and battery life. Enjoy amazing performance with the 13th Gen Intel Core i7 processor. Experience vivid colors with Intel Iris Xe graphics.Latest Intel Core i7-1360P Processor 2.2 GHz (18MB Cache, up to 5.0 GHz, 12 cores, 16 Threads) and Intel Iris Xe Graphics.Fast storage and memory featuring 1TB M.2 NVMe PCIe 4.0 SSD with 16GB LPDDR5 on board RAM, Windows 11 Home.Extensive connectivity with Wi-Fi 6E(802.11ax) (Dual band) 2*2 + Bluetooth 5, 1x 3.5mm Combo Audio Jack, 2x Thunderbolt 4 supports display / power delivery, 1xUSB 3.2 Gen 2 Type-A, 1x HDMI 2.1 TMDS (*USB Transfer speed may vary. Learn more at ASUS website)",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "21",
+    "name": "ASUS ZenBook Duo 14 UX482 14",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/81MfMZUposL._SX679_.jpg",
+    "price": 23403,
+    "description": "Complimentary 3-month Adobe Creative Cloud subscription with the purchase. Learn more on ASUS website for more details. ScreenPad Plus: 12.6 inch matte touchscreen, giving you endless way to optimize your multitasking experience by extending the screen or split windows and apps on both displays.14 inch Full HD 300 nits NanoEdge touchscreen glossy main display.Latest 11th generation Intel Core i7-1195G7 Processor 3.0GHz (Up to 4.8GHz, 4 cores, 12M Cache) with Discrete NVIDIA GeForce MX450 graphics.Fast storage and memory featuring 1TB PCIe NVMe M.2 SSD with 32GB LPDDR4X RAM. Windows 11 Pro and Built-in IR camera for facial recognition sign in with Windows Hello. Exclusive ErgoLift design for improved typing position, optimized cooling system and enhanced audio performance",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "22",
+    "name": "Asus ZenBook Pro 15 (UX580)",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/71yKxEaoVqL._SX679_.jpg",
+    "price": 26004,
+    "description": "Adaptive screen pad design: create shortcuts to launch your favorite apps with a single tap.Adaptive screen pad design: extend your screen on screen pad for more viewing options.Latest Intel 8th Gen Core i9-8950HK Processor (12M Cache, Turbo up to 4.8 GHz).15.6” UHD 4K touch Display with factory-calibrated color accuracy validated by Pantone, 83% screen to body ratio NanoEdge bezel for more display and less bezel. Seamless 4K video playback, photo editing and more with NVIDIA GeForce GTX 1050Ti 4GB.16GB DDR4 2400MHz RAM, 512GB PCIe x4 NVMe SSD, Wi-Fi 5 (802.11AC), Bluetooth 4.1 .71Whr Li-Polymer battery. Features fast charging: charge to 60% in only 49 minutes",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "23",
+    "name": "ASUS ZenBook S UX391",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/71yDPOErw3L._SX679_.jpg",
+    "price": 16344,
+    "description": "Crafted from premium aerospace-grade aluminum to create a unibody all metal finish that is less than 0.5 inch thin, weighs only 2.2 lbs. Latest intel 8th gen core i7-8550u processor 8m cache, up to 4.00 ghz, cooled by copper-alloy heat pipe and liquid-crystal-polymer fan. 14” full hd display that supports stylus, 300nits brightness with 178° viewing angles and 85% screen to body ratio nanoedge bezel.8gb lpddr3 2133mhz ram, 256gb ssd, 802.11ac wi-fi, bluetooth 4.1, latest thunderbolt 3-enabled usb 3.1 type c.Exclusive ergolift hinge automatically tilts the keyboard to the most comfortable typing position. Backlit keyboard., All-day 50whr li-polymer battery providing up to 9 hours of battery life. Features fast charging: Charge to 60% in only 49 minutes, windows 10 professional. Built-in fingerprint sensor for enhanced security and one-touch login using windows hello feature",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "24",
+    "name": "Asus ZenBook S (UX392)",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/814VES1gSEL._SX679_.jpg",
+    "price": 18013,
+    "description": "Stunning NanoEdge 13.9â€ FHD display with a 97% screen-to-body ratio in a 13â€ Body.Super-compact, slim at less than 0.6 inches thin, weighs only 2.4 lbs.High-precision cnc-milling process reduces unnecessary internal voids, helping make the entire chassis tougher and stronger than is possible using traditional metal-stamping methods. Latest 8th Gen Intel Core i7-8565u Processor (8M Cache, up to 4.6GHz).8GB LPDDR3 RAM, 512GB PCIe NVMe SSD, NVIDIA GeForce MX150, Wi-Fi 5 (802.11AC), Bluetooth 5.0",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "25",
+    "name": "Asus ZenBook S (UX393)",
+    "company": "Asus",
+    "image": "https://i.gadgets360cdn.com/products/large/Asus-ZenBook-s-DB-710x800-1598958177.jpg?downsize=*:180",
+    "price": 12000,
+    "description": "Asus ZenBook S is a Windows 10 laptop with a 13.90-inch display that has a resolution of 3300x2200 pixels. It is powered by a Core i7 processor and it comes with 16GB of RAM. The Asus ZenBook S packs 1TB of HDD storage. Connectivity options include Wi-Fi 802.11 ac, Bluetooth and it comes with 2 USB ports (2 x Thunderbolt 3 (Type C)), HDMI Port, Multi Card Slot ports.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "26",
+    "name": "Asus ZenBook 13 (UX331)",
+    "company": "Asus",
+    "image": "https://i.gadgets360cdn.com/products/laptops/large/1546456228_635_asus_zenbook-13-ux331ual.jpg?downsize=*:180",
+    "price": 70940,
+    "description": "Stylish & Portable Thin and Light Laptop,13.3 inch Full HD LED Backlit Anti-glare Display,Finger Print Sensor for Faster System Access,Light Laptop without Optical Disk Drive",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "27",
+    "name": "Asus ZenBook 13 (UX334)",
+    "company": "Asus",
+    "image": "https://i.gadgets360cdn.com/products/large/1558948579_635_asus_zenbook_13_db.jpg?downsize=*:180",
+    "price": 84590,
+    "description": "Asus ZenBook 13 (UX334) is a Windows 10 Home laptop with a 13.30-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i5 processor and it comes with 8GB of RAM. The Asus ZenBook 13 (UX334) packs 256GB of SSD storage. Graphics are powered by Integrated Intel HD Graphics 620. Connectivity options include Bluetooth and it comes with 3 USB ports (1 x USB 2.0, 1 x USB 3.1 Gen 2 (Type A), 1 x USB 3.1 Gen 2 (Type C)), HDMI Port, Multi Card Slot, Headphone and Mic Combo Jack ports.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "28",
+    "name": "Asus ZenBook 13 (UX325)",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/717T1b5JIxL._SX679_.jpg",
+    "price": 74990,
+    "description": "Free upgrade to Windows 11 when available. Disclaimer-Upgrade rollout plan is being finalized and is scheduled to begin late in 2021 and continue into 2022. Specific timing will vary by device. Processor: 11th Gen Intel Core i7-1165G7 Processor, 2.8 GHz Base Speed, Up to 4.7 GHz Max Turbo Speed, 4 cores, 8 Threads, 12MB Cache. Memory: 16GB LPDDR4X onboard 4266MHz with | Storage : 512GB M.2 NVMe PCIe 3.0 SSD. Graphics : Integrated Intel Iris Xe Graphics.Display : 13.3-inch (33.78 cms) FHD (1920 x 1080) 16:9, LED Backlit OLED, 400nits, Glossy Panel, 100% DCI-P3, Pantone Validated 88% Screen-to-Body Ratio.Software Included: Pre-installed MS Office Home and Student 2019, McAfee Anti-Virus with 1-year validity | Operating System: Pre-loaded Windows 10 Home with lifetime validity. Design & battery: Up to 13.9mm thin | Metallic Chassis |Thin and Light Laptop | Laptop weight: 1.14 kg | 67WHrs, 4-cell, lithium-polymer battery | Up to 13 hours battery life ;Note: Battery life depends on conditions of usage",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "29",
+    "name": "Asus ZenBook 13 (UX325EA)",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/71qSNZSBxkL._SX679_.jpg",
+    "price": 59990,
+    "description": "Aspect Ratio:16:9 Intel Evo Platform - The perfect combination of performance, responsiveness and battery life. Enjoy amazing performance with the 11th Gen Intel Core i7-1165G7 processor. Experience vivid colors with Intel Iris Xe graphics. Stay productive with a fast-charging, long-lasting battery. 13.3 inch OLED 400nits Full HD (1920 x 1080) Wide View 4-way NanoEdge bezel display.  Atest 11th generation Latest 11th generation Intel Core i7-1165G7 Quad Core Processor (12M Cache, up to 4.70 GHz, with IPU). Windows 11 Pro. Fast storage and memory featuring 512GB PCIe NVMe M.2 SSD with 8GB LPDDR4X RAM",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "30",
+    "name": "Asus ZenBook 14 (UX433)",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/71XZTGeppAL._SX679_.jpg",
+    "price": 139900,
+    "description": "",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "31",
+    "name": "Samsung Galaxy S21 Ultra",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/91dLTREdG1L._SX466_.jpg",
+    "price": 64999,
+    "description": "Processor: 8th Gen Intel Core i5-8265U processor, 1.6 GHz base processor speed (6MB Cache, up to 3.9 GHz) Display: 35.56cm(14) LED-backlit FHD (1920 x 1080) 16:9 standard display|4-sided NanoEdge display with 92% screen-to-body ratio| Wide 100% sRGB color gamut| 178° wide-view technology .Memory & Storage: 8GB 2133MHz LPDDR3 RAM with Intel UHD Graphics 620 Graphics | Storage: PCIe NVMe 256GB M.2 SSD. Operating System: Pre-loaded Windows 10 Home with lifetime validity | Weight: 1.19kg laptop| Battery life = Up to 13 hours",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "32",
+    "name": "Asus ZenBook 14 (UX434)",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/81J25k3tsGL._SX679_.jpg",
+    "price": 74990,
+    "description": "Processor: 8th Gen Intel Core i5-8265U Processor 1.6 GHz (6M Cache, up to 3.9 GHz, 4 Cores), Memory & Storage: 8GB LPDDR3 2133MHz RAM on board | Storage: PCIe Gen3x2 NVMe 512GB M.2 SSD, Graphics: NVIDIA GeForce MX250 GDDR5 2GB VRAM, Display: 14” LED-backlit FHD (1920 x 1080) 16:9 slim-bezel NanoEdge display with 92% screen-to-body ratio | Wide 100% sRGB color gamut | 178° wide-view technology, Operating System: Pre-loaded Windows 10 Home with lifetime validity, Design & battery: 2.9mm thin side bezel and 3.3mm bottom bezel | Laptop weight 1.35 kg | 50WHrs 3-cell lithium-polymer battery | Up to 12.3 hours battery life*",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "33",
+    "name": "Asus ZenBook 15 (UX533):",
+    "company": "Asus",
+    "image": "https://rukminim2.flixcart.com/image/832/832/jrgo4280/computer/z/j/j/asus-na-laptop-original-imafd3fu7cacaqqh.jpeg?q=70",
+    "price": 139990,
+    "description": "Model Number:UX533FD-A9094T,  Part Number: 90NB0JX3-M01530,  Series: ZenBook 15, Color:Royal Blue, Type:Laptop, Suitable For: Processing & Multitasking, Battery Backup:Upto 17 hours, Power Supply:90 W AC Adapter, Battery Cell: 4 cell,",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "34",
+    "name": "Asus ZenBook 15 (UX534)",
+    "company": "Asus",
+    "image": "https://m.media-amazon.com/images/I/81HNHYrfJxL._SX679_.jpg",
+    "price": 126000,
+    "description": "Processor: 8th Gen Intel Core i7-8565U Processor 1.8 GHz (8M Cache, up to 4.6 GHz), Memory & Storage: 16GB LPDDR3 2133MHz RAM on board | Storage: PCIe Gen3x4 NVMe 1TB M.2 SSD, Graphics: NVIDIA GeForce GTX1650 MAX-Q GDDR5 4GB VRAM, Display: 15.6” LED-backlit FHD (1920 x 1080) 16:9 slim-bezel NanoEdge display with 92% screen-to-body ratio | Wide 100% sRGB color gamut | 178 Degree wide-view technology, Operating System: Pre-loaded Windows 10 Home with lifetime validity, Design & battery: 3.0mm-thin side bezel & 4.5mm bottom bezel | Laptop weight 1.67 kg | 71WHrs 8-cell lithium-polymer battery | Up to 14.9 hours battery life*, Keyboard & ScreenPad : Full-size backlit with 1.4mm key travel | ScreenPad: 5.65” FHD+ (2160 x 1080) Super IPS display, 178 Degree wide-view technology, Glass-covered for fingerprint and smudge resistance, Precision touchpad (PTP) technology supports up to four-finger smart gestures",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "35",
+    "name": "Asus ZenBook 15 (UX535)",
+    "company": "Asus",
+    "image": "https://dlcdnwebimgs.asus.com/gain/b57d4188-c684-401a-b9e5-f3eb96f8709d/w800",
+    "price": 152805,
+    "description": "Core i7 Processor,  Windows 10 Home Operating Syste,  39.62 cm (15.6 Inch) Screen Size",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "36",
+    "name": "Asus ZenBook 3 (UX390)",
+    "company": "Asus",
+    "image": "https://dlcdnwebimgs.asus.com/gain/7dc1f495-ec4b-48c0-a294-8bafcf224af1/w800",
+    "price": 135909,
+    "description": "2.7GHz Intel Core i7-7500U processor, 16GB DDR3 RAM,  512GB Serial ATA hard drive,  12.5-inch screen, Integrated Graphics, Windows 10 operating system, Illuminated chiclet keyboard",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "37",
+    "name": "Asus ZenBook Prime UX32",
+    "company": "Asus",
+    "image": "https://www.theitdepot.com/images/proimages/17605_500_2.jpg",
+    "price": 102801,
+    "description": "GT 620M graphics with 1GB VRAM for outstanding visuals on its Full HD display. Available with an Intel� Core i7 processor, 4GB memory and dual 256GB SSD storage with RAID 0, the UX32VD has stunning performance to match its stunning good looks.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "38",
+    "name": "MacBook Air (1st generation)",
+    "company": "MAC",
+    "image": "https://i.gadgets360cdn.com/products/large/macbook-air-m1-2020-db-800x600-1607604365.png?downsize=*:180",
+    "price": 89990,
+    "description": "Apple MacBook Air (M1, 2020) is a macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Apple M1 processor and it comes with 8GB of RAM. The Apple MacBook Air (M1, 2020) packs 512GB of SSD storage. Connectivity options include Wi-Fi 802.11 a/b/g/n/ac/ax, Bluetooth and it comes with 2 USB ports (2 x Thunderbolt 3 (Type C)), Headphone and Mic Combo Jack ports.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "39",
+    "name": "MacBook Air (2nd generation)",
+    "company": "MAC",
+    "image": "https://m.media-amazon.com/images/I/71eXNIDUGjL._SX679_.jpg",
+    "price": 134900,
+    "description": "STRIKINGLY THIN DESIGN – The redesigned MacBook Air is more portable than ever and weighs just 1.24 kg (2.7 pounds). It’s the ultra-capable laptop that lets you work, play or create just about anything — anywhere.SUPERCHARGED BY M2 – Get more done faster with a next-generation 8-core CPU, up to 10-core GPU and up to 24GB of unified memory. UP TO 18 HOURS OF BATTERY LIFE – Go all day and into the night, thanks to the power-efficient performance of the Apple M2 chip. BIG, BEAUTIFUL DISPLAY – The 34.46-centimetre (13.6-inch) Liquid Retina display features over 500 nits of brightness, P3 wide colour and support for one billion colours for vibrant images and incredible detail.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "40",
+    "name": "MacBook Air (3rd generation)",
+    "company": "MAC",
+    "image": "https://5.imimg.com/data5/TO/BP/MY-8885298/apple-macbook-air-core-i5-3rd-gen-500x500.png",
+    "price": 78500,
+    "description": "Apple MacBook Air Core i5 3rd Gen (4 GB/256 GB SSD/OS X Yosemite) MJVG2HN/A MJVG2HN/A Ultrabook (13.17 inch, SIlver, 1.35 kg)SKU#: Apple MacBook Air Core i5 3rd Gen",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "41",
+    "name": "MacBook Air (4th generation)",
+    "company": "MAC",
+    "image": "https://m.media-amazon.com/images/I/91DjWoRMZbL._SX679_.jpg",
+    "price": 52999,
+    "description": "This Amazon Renewed product will be in an unboxed or refurbished condition and has been professionally inspected and tested by an Amazon qualified supplier. Box and accessories may be generic. 1.7 GhzGHz Intel Core-i7 4th Gen processor. 8GB DDR3 RAM, 256GB hard drive, 13.3-inch screen, Intel HD Graphics 5000 Graphics , Mac OS High Sierra operating system, 1.37kg laptop",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "42",
+    "name": "MacBook Air (5th generation)",
+    "company": "MAC",
+    "image": "https://m.media-amazon.com/images/I/51TdkJSqeQL._SX679_.jpg",
+    "price": 80900,
+    "description": "Dual-core 5th-generation Intel Core i5 processor, Intel HD Graphics 6000, SSD storage,8GB memory,Two USB 3 ports, Thunderbolt 2 port,  SDXC port,  Up to 12 hours of battery life ,  Manufacturer Detail: Apple Inc, One Apple Park way, Cupertino, CA95014,USA.  Packer Detail: Apple India Private Limited No.24 19th Floor, Concorde Tower C, UB city, Vittal Mallya Road Bangalore-560 001.  Importer Details: Apple India Private Limited No.24 19th Floor, Concorde Tower C, UB city, Vittal Mallya Road Bangalore-560 001",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "43",
+    "name": "MacBook Air (6th generation)",
+    "company": "MAC",
+    "image": "https://cdn.pricebaba.com/prod/images/product/laptop/47578/apple-macbook-air-a1466-i5-5th-gen-8gb-128gb-mac-os-sierra-mqd32hn-a-xxl-4053887.jpg?tr=h-290,q-60,c-at_max",
+    "price": 73490,
+    "description": "13.3 Inches,1440 x 900 Screen Resolution,Intel Core i5 (5th Gen), 8 GB RAM, Intel HD 6000 Graphic Processor,Wi-Fi 802.11 a/b/g/n , Bluetooth 4.0, 2 USB 3.0 slots",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "44",
+    "name": "MacBook Air (7th generation)",
+    "company": "MAC",
+    "image": "https://rukminim2.flixcart.com/image/832/832/j4irlow0/computer/q/n/g/apple-na-notebook-original-imaevdwg3cwmes5a.jpeg?q=70",
+    "price": 112099,
+    "description": "MacBook Pro, 61 W USB-C Power Adapter, USB-C Charge Cable (2m), User Guide, Warranty Documents,Model Number:MPXR2HN/A, Part Number:  MPXR2HN/A,  Series: MacBook Pro, Color:  Silver, Type:  Thin and Light Laptop, Suitable For: Travel & Business, Processing & Multitasking, Battery Backup: Upto 10 hours, Power Supply:  61 W USB-C Power Adapter, ",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "45",
+    "name": "MacBook Air (8th generation) ",
+    "company": "MAC",
+    "image": "https://rukminim2.flixcart.com/image/832/832/jqpiqvk0/computer/c/e/c/apple-na-thin-and-light-laptop-original-imafcnwgnnwbjpyj.jpeg?q=70",
+    "price": 108099,
+    "description": "Sales Package:  MacBook Air, 30 W Power Adapter, USB Type C Charge Cable (2 m), User Guide, Warranty Documents,  Model Number:MRE82HN/A, Part Number:  MRE82HN/A, Series: MacBook Air, Color: Space Grey, Type: Thin and Light Laptop, Suitable For:Processing & Multitasking, Battery Backup: Upto 13 hours, Power Supply:  30 W AC Adapter, MS Office Provided: No,",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "46",
+    "name": "MacBook Pro (2011)",
+    "company": "MAC",
+    "image": "https://5.imimg.com/data5/MF/MN/HX/SELLER-83296847/macbook-pro-a1286-500x500.jpg",
+    "price": 35000,
+    "description": "ModelMacbook Pro (15-inch Early 2011), Display\t:15.4-inch, SSD\t:120GB SSD, Graphics:INTEL HD GRAPHICS 3000 512 GB, RAM:10GB 1333 Mhz DDR3,Processor:2.2 GHz Intel Core i7,  Minimum Order Quantity\t:1 Unit",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "47",
+    "name": "MacBook Pro (2012)",
+    "company": "MAC",
+    "image": "https://5.imimg.com/data5/SN/CK/PR/SELLER-83296847/macbook-pro-a1278-500x500.jpg",
+    "price": 30000,
+    "description": "Apple Macbook Pro A1278 (MD101) Mid 2012,Storage:\t500GB HDD, RAM:8gb, Processor:\tCore i5,",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "48",
+    "name": "MacBook Pro (2013)",
+    "company": "MAC",
+    "image": "https://m.media-amazon.com/images/I/616dqeh8T3L._AC_SX679_.jpg",
+    "price": 22485,
+    "description": "13 Laptop, 2.4GHz Intel Core i5 ,  4GB Memory, 128GB SSD ,Integrated Intel Iris 5100 graphics processor, Connectivity includes 802.11ac Wi-Fi, Bluetooth 4.0, two USB 3.0 ports, two (Thunderbolt 2) ports, an HDMI port, an audio in/out port, and an SDXC card slot.  Fresh installation of macOS 10.14 Mojave, includes new MagSafeadapter",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "49",
+    "name": "MacBook Pro (2014)",
+    "company": "MAC",
+    "image": "https://m.media-amazon.com/images/I/716NEN4UVXL._AC_SX679_.jpg",
+    "price": 37392,
+    "description": "Renewed products look and work like new. These pre-owned products have been inspected and tested by Amazon-qualified suppliers, which typically perform a full diagnostic test, replacement of any defective parts, and a thorough cleaning process. Packaging and accessories may be generic. All products on Amazon Renewed come with a minimum 90-day supplier-backed warranty. 2.5 GHz Quad-Core Intel Core i7 Processor (Turbo Boost up to 3.7 GHz, 6 MB shared L3 cache),  16 GB 1600 MHz DDR3L RAM / 512 GB Solid State Drive PCIe-based Flash Storage ,15.4-inch IPS Retina Display, 2880-by-1800 resolution,Intel Iris Pro and NVIDIA GeForce GT 750M Graphics",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "50",
+    "name": "MacBook Pro with Touch Bar (2018)",
+    "company": "MAC",
+    "image": "https://rukminim2.flixcart.com/image/832/832/kamtsi80/computer/g/g/f/apple-na-thin-and-light-laptop-original-imafs5nmtwjgfyqf.jpeg?q=70",
+    "price": 96490,
+    "description": "Sales Package:MacBook Pro, 61 W USB Type C Power Adapter, USB Type C Charge Cable (2 m), User Guide, Warranty Documents,Model Number: MXK32HN/A, Part Number: MXK32HN/A, Series:MacBook Pro with Touch Bar, Color:  Space Grey, Type: Thin and Light Laptop, Suitable For: Processing & Multitasking, Battery Backup: Upto 10 hours, Power Supply:  61 W AC Adapter MS Office Provided:  No",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "51",
+    "name": "MacBook Pro with Touch Bar (2019)",
+    "company": "MAC",
+    "image": "https://gudlaptop.com/images/thumbs/0009154_macbook-pro-2019-touch-bar-14ghz-intel-core-i5-8th-gen-13-inch-8gb-ram-128gb-ssd-storage-a2159.jpeg",
+    "price": 43260,
+    "description": "ModelMacbook Pro (15-inch Early 2011), Display\t:15.4-inch, SSD\t:120GB SSD, Graphics:INTEL HD GRAPHICS 3000 512 GB, RAM:10GB 1333 Mhz DDR3,Processor:2.2 GHz Intel Core i7,  Minimum Order Quantity\t:1 Unit",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "52",
+    "name": "MacBook Pro with Touch Bar (M1, 2021)",
+    "company": "MAC",
+    "image": "https://m.media-amazon.com/images/I/71vFKBpKakL._SX679_.jpg",
+    "price": 69990,
+    "description": "All-Day Battery Life – Go longer than ever with up to 18 hours of battery life.Powerful Performance – Take on everything from professional-quality editing to action-packed gaming with ease. The Apple M1 chip with an 8-core CPU delivers up to 3.5x faster performance than the previous generation while using way less power. Superfast Memory – 8GB of unified memory makes your entire system speedy and responsive. That way it can support tasks like memory-hogging multitab browsing and opening a huge graphic file quickly and easily. Stunning Display – With a 13.3-inch/33.74 cm Retina display, images come alive with new levels of realism. Text is sharp and clear, and colors are more vibrant. Why Mac – Easy to learn. Easy to set up. Astoundingly powerful. Intuitive. Packed with apps to use right out of the box. Mac is designed to let you work, play, and create like never before.",
+    "category": "laptop",
+    "featured": "true"
+  },
+  {
+    "id": "53",
+    "name": "Casio Pro Trek WSD-F21HR",
+    "company": "Casio",
+    "image": "https://m.media-amazon.com/images/I/81ZsuWiq6gL._UY879_.jpg",
+    "price": 38578,
+    "description": "Wear OS by Google, heart rate monitor, GPS, 5 bar WR, Mil-Standard 810 g durability, 50 m Water Resistant. The battery life for normal use is Up to 1.5 days and for multi-Timepiece mode (timekeeping and sensors only) is up to 1 month.Digital compass, Altimeter, Barometer, activity tracker, dual layer LCD structure, Original watch face, Casio Moment Setter, Microphone, timepiece mode.  Quartz Movement, case: 61.7mm. Magnetic charging terminal.  Water resistant to 50 m (165ft: in general, suitable for short periods of recreational swimming, but not diving or snorkeling",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "54",
+    "name": "Casio Pro Trek WSD-F35",
+    "company": "Casio",
+    "image": "https://m.media-amazon.com/images/I/81iGYKd7cOL._UY879_.jpg",
+    "price": 41614,
+    "description": "Imported; wear OS by Google; oled (high visibility); New timepiece mode; 50 m Water Resistant. Digital compass; Altimeter; Barometer; activity tracker; dual layer LCD structure; Original watch face; Microphone; Casio Moment Setter App. Touchscreen.   Case Diameter: 60. 5mm.  Water resistant to 50 m (165ft: in general, suitable for short periods of recreational swimming, but not diving or snorkeling",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "55",
+    "name": "Casio Pro Trek WSD-F20",
+    "company": "Casio",
+    "image": "https://rukminim2.flixcart.com/image/832/832/k2z1t3k0/smartwatch/p/f/g/wsd-f20a-gnbad-in-casio-original-imafm7cszdssgqzs.jpeg?q=70",
+    "price": 22396,
+    "description": "Dial Color: Black, Dial Shape:Round,  Strap Color: Green,  Strap Material: Resin,  Size: Free Size,  Touchscreen: Yes,  Water Resistant: Yes,  Water Resistance Depth:  50 m,  Usage:  Fitness & Outdoor,  Dial Material:  Resin,  Ideal For: Unisex,  Compatible OS:  Android & iOS",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "56",
+    "name": "Casio Pro Trek WSD-F30",
+    "company": "Casio",
+    "image": "https://images.gizbot.com/webp/fit-in/150x150/img/gadget-finder/wearables/2018/11/casio-pro-trek-wsd-f30_15435832980.jpg",
+    "price": 38865,
+    "description": "Battery Life Up to 3 Days Capacity Lithium-ion battery Charging Type Yes, Magnetic Crimped Charging Terminal COMPATIBILITY Compatible OS Android and iOS CONNECTIVITY Bluetooth Yes, v4.1 Wireless Protocol Wi-Fi IEEE 802.11 b/g/n DESIGN Clock Face Digital Colours Black, Orange, Blue Dimensions 60.5 x 53.8 x 14.9 mm (H×W×D) Shape & Surface Circle Weight 90 g",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "57",
+    "name": "Fitbit Versa (1st Generation",
+    "company": "Fitbit Versa",
+    "image": "https://rukminim2.flixcart.com/image/832/832/jr9iwsw0/smartwatch/a/m/n/fb505srgy-fitbit-original-imafd3hyngequggx.jpeg?q=70",
+    "price": 16124,
+    "description": "Personalized On-screen workouts, With Cardio Fitness Score. get a better understanding of your fitness level and improvement areas,  Heart Rate tracking, Sleep monitoring and all-day activity tracking with 15+ exercise modes,  Swimproof - Water resistant upto 50m, 4+ days of battery life,  Connected GPS to track your runs,   Music experience - Store 300+ songs,  Touchscreen Fitness & Outdoor, Battery Runtime: Upto 4 days",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "58",
+    "name": "Fitbit Versa Lite",
+    "company": "Fitbit Versa",
+    "image": "https://rukminim2.flixcart.com/image/832/832/jt641ow0/smartwatch/q/w/z/fb415srgy-fitbit-original-imafeh2ajryggxsb.jpeg?q=70",
+    "price": 14949,
+    "description": "Get Cardio Fitness Score for Better Understanding of Fitness Level and Improvement Areas,  Heart Rate Tracking, Sleep Monitoring and All Day Activity Tracking with 15+ Exercise Modes,  Upto 4 Days of Battery Life,  Connected GPS to Track Runs,  Touchscreen, Fitness & Outdoor, Battery Runtime: Upto 4 days",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "59",
+    "name": "Fitbit Versa 2",
+    "company": "Fitbit Versa",
+    "image": "https://m.media-amazon.com/images/I/61GYU+nawDL._SX679_.jpg",
+    "price": 13999,
+    "description": "Use built-in amazon alexa to get quick news, info and weather, set bedtime reminders and alarms, control your smart home devices and more—just by speaking to your watch;Based on your heart rate, time asleep, restlessness and breathing, sleep score helps you better understand your sleep quality each night. Also track your time in light, deep, and rem sleep stages.  Use 24/7 heart rate tracking to better track calorie burn, optimize effort during workouts, see your resting heart rate trends and cardio fitness level in the fitbit app;Store and play 300+ songs—plus control spotify from your wrist. Subscriptions required; With a larger display and an always-on option, your information is always a quick glance away. Always-on display requires more frequent charging, Get notifications for calls, texts, calendar events and apps like gmail and facebook—plus send quick replies using your voice. Works when your phone is nearby. Quick replies on android only; Works around the clock with 5+ day battery life. Varies with use and other factors,  Band Material Type: Rubber; Human Interface Input: Touch Screen; Compatible Devices: Smartphone; Included Components: 1x Device, 1x Instruction Manual, 1x Extra Strap, 1x Charging Cable.  Wireless Communication Technology: Wi-Fi; Connectivity Technology: Wireless",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "60",
+    "name": "Fitbit Versa 3 ",
+    "company": "Fitbit Versa",
+    "image": "https://m.media-amazon.com/images/I/61ZXwnqqOuS._SX679_.jpg",
+    "price": 16499,
+    "description": "Receive a Daily Readiness Score that reveals if you’re ready to exercise or should focus on recovery (requires Fitbit Premium membership. Premium content recommendations are not available in all locales and may be in English only).Water resistance depth:50 meters;Run, bike, hike and more phone-free—and see your real-time pace & distance—with built-in GPS. Then check out your workout intensity map in the Fitbit app. Active Zone Minutes uses your resting heart rate to gauge exercise effort and gives you a buzz when you step up the intensity so you can make the most of your workouts. Fitbit Versa 3 is water resistant to 50 meters;Better track heart rate 24/7 with PurePulse 2.0, Fitbit’s enhanced heart rate technology",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "61",
+    "name": "Fitbit Versa Sense ",
+    "company": "Fitbit Versa",
+    "image": "https://i.gadgets360cdn.com/products/large/fitbit-sense-db-641x800-1626250117.jpg?downsize=*:180",
+    "price": 18499,
+    "description": "Dial Shape:\tSquare,  Size:\tRegular,  Touchscreen\t:Yes,  Water Resistant:\tYes,  Water Resistance Depth:\t50 meters,  Ideal :For\tUnisex,  Strap Colour:\tCarbon, Lunar White",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "62",
+    "name": "Fossil Gen 1 (Original)",
+    "company": "Fossil  ",
+    "image": "https://rukminim2.flixcart.com/image/832/832/smartwatch/h/g/n/ftw2108-fossil-q-original-imaemrhcughatgz4.jpeg?q=70",
+    "price": 19995,
+    "description": "Dial Shape:Round, Strap Color:Grey,Strap Material: Stainless steel, Size:  Regular, Touchscreen:Yes, Water Resistant: Yes, Usage: Notifier, Fitness & Outdoor, Dial Material:Stainless Steel, Ideal For: Men & Women, Compatible OS: Android & iOS",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "63",
+    "name": "Fossil Gen 2",
+    "company": "Fossil  ",
+    "image": "https://rukminim2.flixcart.com/image/832/832/smartwatch/m/c/k/ftw2117p-fossil-original-imaepfsh94zqrgzz.jpeg?q=70",
+    "price": 19995,
+    "description": "Dial Shape: Round,  Strap Color: Black,  Strap Material:Stainless steel,  Size:Regular,  Touchscreen: Yes,  Water Resistant: Yes, Usage:   Notifier, Fitness & Outdoor, Ideal For:  Men & Women, Compatible OS: Android & iOS",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "64",
+    "name": "Fossil Gen 3",
+    "company": "Fossil  ",
+    "image": "https://rukminim2.flixcart.com/image/832/832/j81xsi80/smartwatch/u/m/z/ftw4000-fossil-original-imaey5z2ypcjuvnj.jpeg?q=70",
+    "price": 15034,
+    "description": "Android Wear 2.0,Activity Tracking, Sleep Tracking, Calorie Count, Notifications - Call, Text, Alarm, Calendar, Email, Social Media,Wireless Charging,LED Flashlight,Auto Update Time and Data,Customisable Watch Faces, Interchangeable Watch Bands ,Touchscreen, Notifier, Battery Runtime: Upto 24 hrs",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "65",
+    "name": "Fossil Gen 4",
+    "company": "Fossil  ",
+    "image": "https://m.media-amazon.com/images/I/71xHAJLlt7L._UX679_.jpg",
+    "price": 14040,
+    "description": "Smartwatches powered with wear OS by Google work with iPhone and Android phones. Heart rate and activity tracking using Google fit; Built-in GPS for Distance tracking; Music storage; swimproof design 3Atm; responses from Google assistant - itâ€s your own personal Google, always ready to help; speed through checkout with your watch using Google pay. This is one smart watch - Receive smartphone notifications and app Alerts, manage your calendar, control your music, Download third party apps (your favorite ride-sharing or music apps), and customize your watch face; touchscreen functionality, built-in fitness Tracker, Microphone, music storage and controls, custom goal and Alarm settings, calendar Alerts, Multiple Time Zones, weather, LED Flashlight, wireless syncing",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "66",
+    "name": "Fossil Gen 5",
+    "company": "Fossil  ",
+    "image": "https://m.media-amazon.com/images/I/61bizIa5XwL._UX679_.jpg",
+    "price": 22995,
+    "description": "Smartwatches powered with wear OS by Google work with iPhone and Android phones, Compatibility: Android OS 6.0+ (EXCLUDING GO EDITION), iOS 10.0+;Extend your battery life for multiple days with new, smart Battery modes; magnetic usb rapid Charger included; charge UP to 80 percent in under an hour. Heart Rate & Activity Tracking using Google Fit; Built-in GPS for distance tracking; Swimproof design 3ATM; G Pay;responses from Google Assistant - itâ€s your own personal Google, always ready to help;This is one smart watch - now with a speaker for Audible alerts and taking phone calls, Google assistant responses and more; Receive smartphone notifications and alerts; Microphone; Download third party apps with 8Gb of storage and 1G ram memory capacity",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "67",
+    "name": "Huawei Watch 1",
+    "company": "Huawei Watch ",
+    "image": "https://i.gadgets360cdn.com/products/large/huawei-watch-fit-378x800-1598701234.jpg?downsize=*:180",
+    "price": 89900,
+    "description": " the design resembles most fitness trackers, the high-resolution AMOLED screen and user interface makes the device equally well suited for use as a regular smartwatch. There are fitness and health tracking features such as heart rate and SpO2 tracking, sleep and step tracking, and GPS for distance tracking accuracy. However, the Huawei Watch Fit falls a bit short on fitness tracking and GPS accuracy, and is outdone by more affordable options in the segment.",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "68",
+    "name": "Huawei Watch 2",
+    "company": "Huawei Watch ",
+    "image": "https://rukminim2.flixcart.com/image/832/832/j9yixe80/smartwatch/g/4/e/leo-dlxx-huawei-original-imaezk6jkv7rzy7j.jpeg?q=70",
+    "price": 29999,
+    "description": "Dial Shape:Round,  Strap Color: Black, Strap Material: Silicone, Size: Regular, Touchscreen: Yes, Water Resistant: Yes, Water Resistance Depth: 1 m, Usage: Notifier, Fitness & Outdoor, Dial Material: Aluminium Alloy, Ideal For: Men & Women, Compatible OS:  Android & iOS",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "69",
+    "name": "Huawei Watch GT",
+    "company": "Huawei Watch ",
+    "image": "https://rukminim2.flixcart.com/image/832/832/jvy4vbk0/smartwatch/s/w/v/fortuna-b19i-huawei-original-imafgqs9jxg65asf.jpeg?q=70",
+    "price": 89900,
+    "description": "Dial Shape: Round, Strap Color:Green, Strap Material: Silicone, Size: Regular, Touchscreen: Yes, Water Resistant: Yes Water Resistance Depth: 50 m, Usage: Fitness & Outdoor, Dial Material: Stainless Steel, Ideal For: Men & Women,  Compatible Os: Android & iOS",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "70",
+    "name": "Huawei Watch Fit",
+    "company": "Huawei Watch ",
+    "image": "https://i.gadgets360cdn.com/products/large/huawei-watch-fit-378x800-1598701234.jpg?downsize=*:180",
+    "price": 89900,
+    "description": "Dial Colour:\tBlack, Silver, Rose Gold, Dial Shape\t:Rectangle,Strap Colour\t:Graphite Black, Mint Green, Cantaloupe Orange, Sakura Pink,  Strap Material\t:Silicone, Size\t:Regular, Touchscreen\t:Yes, Interchangeable Strap\t:Yes, Water Resistant\t:Yes, Water Resistance Depth\t:5 ATM, Dial Material\t:durable polymer fiber,Ideal :For\tUnisex",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "71",
+    "name": "Huawei Watch 3",
+    "company": "Huawei Watch ",
+    "image": "https://m.media-amazon.com/images/I/510bFM8HW9L._SX679_.jpg",
+    "price": 259900,
+    "description": "【Continuous Health Monitoring】HUAWEI Watch 3 allows continuous blood oxygen, heart rate and skin temperature monitoring.【3-Days Battery Life**】Enjoy 3 Days Battery Life in smart mode, and an incredible 14 days' use in ultra-long battery life mode.【Independent Calling】Stay connected 24/7 with eSIM mobile calls that allow HUAWEI WATCH 3 to function as a stand-alone communication device. Make calls, play music, and download apps without being connected to your phone, still using your existing number.【Ultimate Fitness Tracking】Discover 100+ workout modes for indoor and outdoor sports, and 85 custom modes, with automatic exercise detection for the 6 most common types of workout. It also offers superior outdoor route tracking. 【Smooth Controls】Control HUAWEI WATCH 3 using the high-response touch-sensitive screen, side button and fully rotatable crown, offset for easy access. Rotate the crown for easy scrolling through on-display features and volume settings",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "72",
+    "name": "Amazfit Bip (Original)",
+    "company": "Amazfit Bip  ",
+    "image": "https://i.gadgets360cdn.com/products/wearables/large/1551968923_832_amazfit_bip-smartwatch.jpg?downsize=*:180",
+    "price": 69980,
+    "description": "Dial Shape\t:Rectangle,Strap Material\t:Silicone,Size\t:Regular,Touchscreen\t:Yes, Water Resistant\t:Yes, Usage:\tFitness & Outdoor, Ideal: For\tMen, Strap Colour:\tBlack, Dial Colour:\tBlack",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "73",
+    "name": "Amazfit Bip Lite",
+    "company": "Amazfit Bip  ",
+    "image": "https://rukminim2.flixcart.com/image/832/832/k2w6xe80/smartwatch/v/b/g/a1915-huami-original-imafhwag2jse3387.jpeg?q=70",
+    "price": 34990,
+    "description": "UP TO 45 DAYS BATTERY LIFE: A powerful battery capable of lasting up to 45 days on a single charge. Charging time: Approx. 2.5 hours.3 ATM WATER RESISTANT: Designed to withstand all your activities rain or shine, this watch is 3 ATM certified, equivalent to about 30 meters water depth.Use Amazfit App (ZEPP) to connect to phone.LIGHTWEIGHT: Comfortable to wear day and night; You will even forget it’s there on your wrist.ACTIVITY and SPORTS TRACKING: Track daily activities and sports like indoor and outdoor running, walking and cycling. REFLECTIVE ALWAYS-ON: The display is always on and easily readable under bright sunlight. NOTIFICATIONS: Receive notifications for incoming calls, emails, messages and other apps. Sedentary reminders if you’ve been sitting too long",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "74",
+    "name": "Amazfit Bip 2",
+    "company": "Amazfit Bip",
+    "image": "https://www.reliancedigital.in/medias/Amazfit-A2290-Smart-Watch-493664570-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w5MDQxN3xpbWFnZS9qcGVnfGltYWdlcy9oYTQvaGFiLzk5MzAwNzQwMzAxMTAuanBnfDAyYThjMzc2MDQyNDM2OTNiNDk5Njk5MzhjNmM0NmE2ZGVjZGJmNzllNDQ1Mzc5MmIzZDc4MTc5ZWI0ZmI2Yjc",
+    "price": 24990,
+    "description": "Features: Always-on Display,Find Phone,Scratch Resistant,Gesture Control,Voice Control.Battery Run Time:Upto 10 days, Charging Time: Upto 2 hour",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "75",
+    "name": "Amazfit Bip U",
+    "company": "Amazfit Bip",
+    "image": "https://m.media-amazon.com/images/I/61-ZuCsybdL._SX679_.jpg",
+    "price": 39990,
+    "description": "(SpO2) Blood-oxygen Level Measurement;Stress Monitoring with Breathing Training.Heart Rate Monitoring and PAI Heath Assessment System; 60+ Sports Modes and 5 ATM Water Resistance. Smart Notifications for Incoming Calls, Text Messages, Apps, and Calendars.  Check Out Our Store : Click on the blue Amazfit link below the Product title, to explore our other models.  Item Type Name: Smart Watch; Connectivity Technology: Wireless; Included Components: Amazfit Bip U*1, Charger Case *1,Manual*1; Human Interface Input: Touch Screen; Wireless Communication Technology: Bluetooth; Band Material Type: Polycarbonate; Compatible Devices: Smartphone",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "76",
+    "name": "Amazfit Bip U Pro",
+    "company": "Amazfit Bip",
+    "image": "https://rukminim2.flixcart.com/image/832/832/kqo3onk0/smartwatch/j/o/j/a2008-android-ios-amazfit-original-imag4msjkrnmh2ma.jpeg?q=70",
+    "price": 2999,
+    "description": "Super light weight about 31g with a 1.43' large color touch screen,Accurately track heart rate, blood oxygen levels, stress levels, breathing, quality of sleep, and sleeping patterns., Built-in GPS , Built-in Alexa and GLONASS, 60+ Sports Modes with 5 ATM Water-resistance, Battery Life Up to 9 Days in typical use & Smart Notifications, Touchscreen, Fitness & Outdoor, Battery Runtime: Upto 9 days  ",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "77",
+    "name": "Amazfit Bip S Lite",
+    "company": "Amazfit Bip",
+    "image": "https://rukminim2.flixcart.com/image/832/832/kcdp5zk0/smartwatch/s/h/y/a1823-android-huami-original-imaftgv7zww6kkrf.jpeg?q=70",
+    "price": 29990,
+    "description": "Outstanding Battery life with 30 Days on a single charge, 1.28 Transflective Color Always-On Display & 2 Built-In Editable Dials and more than 150 Watch Faces to Download, 5 ATM Water Resistance & Tracking of 8 Sports Modes & Daily Activities such as steps, distance, calories, etc. Continuous Heart Rate & Sleep Monitoring, Huami-PAI Health Assessment System, Music Control, Smart Notifications, Call Reminders, Alarm Clock, Sedentary Reminders, Weather Forecast, Touchscreen, Fitness & Outdoor, Battery Runtime: Upto 30 days",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "78",
+    "name": "Xiaomi Mi Watch (1st Generation)",
+    "company": "Xiaomi Mi",
+    "image": "https://i.gadgets360cdn.com/products/large/xiaomi-watch-s1-755x800-1640701827.jpg?downsize=*:180",
+    "price": 89900,
+    "description": "Dial Shape\t:Rectangle,Strap Material\t:Silicone,Size\t:Regular,Touchscreen\t:Yes, Water Resistant\t:Yes, Usage:\tFitness & Outdoor, Ideal: For\tMen, Strap Colour:\tBlack, Dial Colour:\tBlack",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "79",
+    "name": "Xiaomi Mi Watch Revolve",
+    "company": "Xiaomi Mi",
+    "image": "https://i.gadgets360cdn.com/products/large/Mi-Watch-Revolve-DB-437x800-1601366021.jpg?downsize=*:180",
+    "price": 81400,
+    "description": "Dial Shape\t:Rectangle,Strap Material\t:Silicone,Size\t:Regular,Touchscreen\t:Yes, Water Resistant\t:Yes, Usage:\tFitness & Outdoor, Ideal: For\tMen, Strap Colour:\tBlack, Dial Colour:\tBlack",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "80",
+    "name": "Xiaomi Mi Watch Lite",
+    "company": "Xiaomi Mi",
+    "image": "https://m.media-amazon.com/images/I/41kdsdokNZL._SX300_SY300_QL70_FMwebp_.jpg",
+    "price": 49990,
+    "description": "1.55 HD, LCD, 100+ Pro Workout Modes, Multi-system GPS, Cont HR and SpO2, Womens Health, Custom Watchfaces, 6 axis sensors, 5 ATM, Upto 10 Days Battery Life, Included Components: Watch Body, Strap, Charging Cable, User Manual; Case Material Type: Plastic; Connectivity Technology: Bluetooth 5.0; Color Name: Black; Band Material Type: Silicone; Compatible Devices: Smartphonexiaomi Phonesamsung Phonerealme Phone; Human Interface Input: Touch Screenbuttons; Clasp Type: Hook Buckle",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "81",
+    "name": "Polar Vantage V (1st Generation)",
+    "company": "Polar Vantage",
+    "image": "https://images-cdn.ubuy.co.in/636a2a09bd5024431577e964-polar-vantage-v-premium-gps.jpg",
+    "price": 44492,
+    "description": "ULTRA-LONG BATTERY LIFE: The Polar Vantage V Multisport Watch has up to 40 hours of training time with GPS active. As a premium, durable, and waterproof watch, the Vantage V can stand up to your toughest training and grueling races. POLAR PRECISION PRIME HEART RATE: Poplars heart rate monitor watches redefine the gold standard in optical heart rate accuracy by combining the latest in bio-impedance electrodes and optical sensors. ADVANCED RUNNING POWER: Accelerate the effectiveness and precision of your training with running power. Captured for the first time EVER directly from the wrist, the Vantage V can help fine-tune your effort. This is the ultimate activity tracker.",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "82",
+    "name": "Polar Vantage M (1st Generation)",
+    "company": "Polar Vantage",
+    "image": "https://m.media-amazon.com/images/I/71qYQXu2LXL._SX679_.jpg",
+    "price": 55124,
+    "description": "",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "83",
+    "name": "Polar Vantage V2",
+    "company": "Polar Vantage",
+    "image": "https://m.media-amazon.com/images/I/61Arjt1H7zL._SX679_.jpg",
+    "price": 84029,
+    "description": "The lightweight multisport smartwatch with full aluminium body (only 52g), equipped with advanced wrist-based HR tracking, GPS, ultra-long battery life, running & cycling performance tests, FuelWise, route guidance, sleep tracking, & more.The training load and recovery tracking tools help you optimize your training and avoid overtraining. Test your performance and personalize your heart rate, speed and power zones with the running and cycling performance tests. Use Polar Vantage V2 with Polar Flow - a free online tool for planning and following up on your workouts, analyzing activity progress and sleep. Available on desktop and mobile. Connect easily with online sports communities for road running, swimming, cycling, cardio, triathlon (MyFitnessPal, Endomondo, Nike+ Run Club, Strava, TrainingPeaks, Adidas Running by Runtastic etc.) Polar Vantage V2 comes with the essential smart watch features: music controls, weather and phone notifications.",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "84",
+    "name": "Polar Vantage M2",
+    "company": "Polar Vantage",
+    "image": "https://m.media-amazon.com/images/I/71U3VDoem9L._SX679_.jpg",
+    "price": 53822,
+    "description": "Train smarter, not harder - improve your performance with insights about your current condition and support for 130+ sports including swimming and cycling. Automatically sync training data to Strava, TrainingPeaks, and more.  Vantage M2 automatically tracks your sleep and recovery so you know when you can safely push your body further. Up to 30 hours of training time with GPS active. Running program helps you achieve your running goals with efficiency and precision. FitSpark - personalized workout suggestions which include cardio and strength training and supportive exercises (core and mobility). Training Load Pro tracks your load and ensures you're recovered. FuelWise smart fueling assistant reminds you to refuel and maintain adequate energy levels during your longer sessions with this ultimate fitness and biking activity tracker.  Smartwatch features like music controls, weather, call/text notifications and more make sure you’ll never miss a beat.",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "85",
+    "name": "Withings Steel HR",
+    "company": "Withings Steel",
+    "image": "https://m.media-amazon.com/images/I/81pDVIVrfYL._SX679_.jpg",
+    "price": 38841,
+    "description": "Heart rate monitoring - Continuously track heart rate in workout mode to optimize training, and monitor daily and overnight heart rate to improve health over time. Long-lasting battery - Up to 25 days battery life, plus 20 more days on power reserve mode (time and activity tracking only). Activity tracking - Automatically track walk, run, swim, distance and calories burned and enjoy more than 10 activities that can be recognized. Water resistant to 50m - Accompany you to the pool and survive a downpour. Smartphone alerts - Receive notifications for text messages, calls, and events on the watch screen",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "86",
+    "name": "Withings Steel HR Sport",
+    "company": "Withings Steel",
+    "image": "https://m.media-amazon.com/images/I/81MQG9RCEJL._SX679_.jpg",
+    "price": 29546,
+    "description": "Heart rate tracking - Maximize your workouts with continuous heart rate and in-depth reporting plus daily and overnight HR. Workout mode w/connected GPS - Maps your session with distance, elevation and pace. Fitness level - Assesses your cardiovascular capacity when running based on V02 max estimation. Goes the distance - Water resistant up to 50m, 25 days of battery life on one charge, durable stainless steel case. Sleep tracking - Wake to a Sleep Score based on light & deep sleep cycles, interruptions, depth & regularity plus enjoy a silent vibrating alarm; Smart notifications - Call, text, event and app notifications from your smartphone; Nokia Health is now Withings. Same products, same team, same commitment to your health. For more information, contact our support",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "87",
+    "name": "Suunto Spartan Ultra",
+    "company": "Suunto Spartan",
+    "image": "https://cdn1.smartprix.com/rx-idQO2TyP7-w420-h420/suunto-spartan-ultra.webp",
+    "price": 100170,
+    "description": "Bluetooth, GPS,Touch Display, Water Resistant, 100 m, Scratch Resistant, Heart Rate Monitor, Pedometer, Calorie Count, Step Count, 18 hours Battery, Alarm Clock, Stopwatch",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "88",
+    "name": "Suunto Spartan Sport",
+    "company": "Suunto Spartan",
+    "image": "https://m.media-amazon.com/images/I/81Tz+sW0AhL._SY879_.jp",
+    "price": 45965,
+    "description": "2.7GHz Intel Core i7-7500U processor, 16GB DDR3 RAM,  512GB Serial ATA hard drive,  12.5-inch screen, Integrated Graphics, Windows 10 operating system, Illuminated chiclet keyboard",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "89",
+    "name": "Suunto Spartan Trainer",
+    "company": "Suunto Spartan",
+    "image": "https://m.media-amazon.com/images/I/61LVIZkgYsL._SX679_.jpg",
+    "price": 44776,
+    "description": "14 days battery life in time mode Convenient wrist HR measurement, 50 m water resistant, Heart rate zones on watch. Ready to go: swimming, running, cycling, gym, hiking, and more with GPS tracking with speed, pace and distance. Find back safely with breadcrumb view of traveled route. Route navigation with Points of Interest (POI) and Estimated Time of Arrival (ETA).  24/7 tracking of your daily steps, calories and sleep. Track your daily rest-HR value to know if you are stressed or over-trained",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "90",
+    "name": "Apple Watch Series 1",
+    "company": "Apple",
+    "image": "https://i.gadgets360cdn.com/products/wearables/large/1551968928_832_apple_watch-series-1-smartwatch.jpg?downsize=*:180",
+    "price": 21625,
+    "description": "Model Name\t:Watch Series 1 ,Dial Shape:\tRectangle,  Strap Material\t:Rubber,  Size:\tRegular,  Touchscreen:\tYes,  Water Resistant:\tYes, Usage:\tNotifier, Dial Material\t:Aluminum, Ideal: For\tUnisex, Strap Colour\t:White, Dial Colour:\tBlack\",\n        \"category\": \"watch",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "91",
+    "name": "Apple Watch Series 2:",
+    "company": "Apple",
+    "image": "https://i.gadgets360cdn.com/products/wearables/large/1551968929_832_apple_watch-series-2-smartwatch.jpg?downsize=*:180",
+    "price": 34900,
+    "description": "Model Name\tWatch Series: 2,  Dial Shape:\tRectangle, Strap Material:\tStainless Steel, Size\t:Regular,  Touchscreen\t:Yes,  Water Resistant\t:Yes,  Water Resistance: Depth\t50 m,  Usage\t:Fitness & Outdoor,  Dial Material\t:Aluminum,  Ideal: For\tUnisex,  Strap Colour\t:Midnight Blue,  Dial Colour\t:Black",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "92",
+    "name": "Apple Watch Series 3",
+    "company": "Apple",
+    "image": "https://i.gadgets360cdn.com/products/wearables/large/1551968931_832_apple_watch-series-3-gps-smartwatch.jpg?downsize=*:180",
+    "price": 22900,
+    "description": "Model Name\tWatch Series: 2,  Dial Shape:\tRectangle, Strap Material:\tStainless Steel, Size\t:Regular,  Touchscreen\t:Yes,  Water Resistant\t:Yes,  Water Resistance: Depth\t50 m,  Usage\t:Fitness & Outdoor,  Dial Material\t:Aluminum,  Ideal: For\tUnisex,  Strap Colour\t:Midnight Blue,  Dial Colour\t:Black",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "93",
+    "name": "Apple Watch Series 4",
+    "company": "Apple",
+    "image": "https://i.gadgets360cdn.com/products/wearables/large/1551968933_832_apple_watch-series-4-gps-smartwatch.jpg?downsize=*:180",
+    "price": 34990,
+    "description": "Model Name\tWatch Series: 2,  Dial Shape:\tRectangle, Strap Material:\tStainless Steel, Size\t:Regular,  Touchscreen\t:Yes,  Water Resistant\t:Yes,  Water Resistance: Depth\t50 m,  Usage\t:Fitness & Outdoor,  Dial Material\t:Aluminum,  Ideal: For\tUnisex,  Strap Colour\t:Midnight Blue,  Dial Colour\t:Black",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "94",
+    "name": "Apple Watch Series 5",
+    "company": "Apple",
+    "image": "https://i.gadgets360cdn.com/products/large/apple-watch-series-5-gps-472x800-1568268941.jpg?downsize=*:180",
+    "price": 43900,
+    "description": "Model Name\tWatch Series: 2,  Dial Shape:\tRectangle, Strap Material:\tStainless Steel, Size\t:Regular,  Touchscreen\t:Yes,  Water Resistant\t:Yes,  Water Resistance: Depth\t50 m,  Usage\t:Fitness & Outdoor,  Dial Material\t:Aluminum,  Ideal: For\tUnisex,  Strap Colour\t:Midnight Blue,  Dial Colour\t:Black",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "95",
+    "name": "Apple Watch Series 6",
+    "company": "Apple",
+    "image": "https://i.gadgets360cdn.com/products/large/apple-watch-series-6-cellular-558x800-1600234981.jpg?downsize=*:180",
+    "price": 44900,
+    "description": "Model Name\tWatch Series: 2,  Dial Shape:\tRectangle, Strap Material:\tStainless Steel, Size\t:Regular,  Touchscreen\t:Yes,  Water Resistant\t:Yes,  Water Resistance: Depth\t50 m,  Usage\t:Fitness & Outdoor,  Dial Material\t:Aluminum,  Ideal: For\tUnisex,  Strap Colour\t:Midnight Blue,  Dial Colour\t:Black",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "96",
+    "name": "Apple Watch SE",
+    "company": "Apple",
+    "image": "https://m.media-amazon.com/images/I/712wRLMlBeL._SX679_.jpg",
+    "price": 32900,
+    "description": "Take calls and reply to texts, right from your wrist;Track your daily activity on Apple Watch and see your trends in the Fitness app on iPhone.Track new tai chi and pilates workouts, in addition to favourites like running, yoga, swimming and dance;Hike smarter with built-in compass and real-time elevation readings.  Stay on top of your health with high and low heart rate, and irregular heart rhythm notifications;Apple Watch can detect if you’ve taken a hard fall, then automatically call emergency services for you.Emergency SOS lets you call for help when you need it;Sync your favourite music and podcasts; Swimproof design;100% recycled aluminium cases available in three finishes. Included Components: Apple Watch, Band, 1m Magnetic Charging Cable; Compatible Devices: Smartphone",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "97",
+    "name": "Apple Watch Series 7",
+    "company": "Apple",
+    "image": "https://i.gadgets360cdn.com/products/large/apple-watch-series-7-gps-cellular-469x800-1631645878.jpg?downsize=*:180",
+    "price": 50900,
+    "description": "Model Name\tWatch Series: 2,  Dial Shape:\tRectangle, Strap Material:\tStainless Steel, Size\t:Regular,  Touchscreen\t:Yes,  Water Resistant\t:Yes,  Water Resistance: Depth\t50 m,  Usage\t:Fitness & Outdoor,  Dial Material\t:Aluminum,  Ideal: For\tUnisex,  Strap Colour\t:Midnight Blue,  Dial Colour\t:Black",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "98",
+    "name": "Samsung Galaxy Gear S",
+    "company": "Samsung Galaxy",
+    "image": "https://i.gadgets360cdn.com/products/wearables/large/1551968961_832_samsung_gear-s-smartwatch.jpg?downsize=*:180",
+    "price": 23981,
+    "description": "Model Name\tWatch Series: 2,  Dial Shape:\tRectangle, Strap Material:\tStainless Steel, Size\t:Regular,  Touchscreen\t:Yes,  Water Resistant\t:Yes,  Water Resistance: Depth\t50 m,  Usage\t:Fitness & Outdoor,  Dial Material\t:Aluminum,  Ideal: For\tUnisex,  Strap Colour\t:Midnight Blue,  Dial Colour\t:Black",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "99",
+    "name": "Samsung Galaxy Gear S2",
+    "company": "Samsung Galaxy",
+    "image": "https://i.gadgets360cdn.com/products/wearables/large/1551968963_832_samsung_gear-s2-smartwatch.jpg?downsize=*:180",
+    "price": 79990,
+    "description": "Model Name\tWatch Series: 2,  Dial Shape:\tRectangle, Strap Material:\tStainless Steel, Size\t:Regular,  Touchscreen\t:Yes,  Water Resistant\t:Yes,  Water Resistance: Depth\t50 m,  Usage\t:Fitness & Outdoor,  Dial Material\t:Aluminum,  Ideal: For\tUnisex,  Strap Colour\t:Midnight Blue,  Dial Colour\t:Black",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "100",
+    "name": "Samsung Galaxy Gear S3",
+    "company": "Samsung Galaxy",
+    "image": "https://i.gadgets360cdn.com/products/wearables/large/1551968965_832_samsung_gear-s3-frontier-smartwatch.jpg?downsize=*:180",
+    "price": 14999,
+    "description": "Model Name\tWatch Series: 2,  Dial Shape:\tRectangle, Strap Material:\tStainless Steel, Size\t:Regular,  Touchscreen\t:Yes,  Water Resistant\t:Yes,  Water Resistance: Depth\t50 m,  Usage\t:Fitness & Outdoor,  Dial Material\t:Aluminum,  Ideal: For\tUnisex,  Strap Colour\t:Midnight Blue,  Dial Colour\t:Black",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "101",
+    "name": "Samsung Galaxy Watch (Original)",
+    "company": "Samsung Galaxy",
+    "image": "https://i.gadgets360cdn.com/products/wearables/large/1551968958_832_samsung_galaxy-smartwatch.jpg?downsize=*:180",
+    "price": 10999,
+    "description": "Model Name\t:Galaxy Watch 42 mm,Dial Shape\t:Round,Strap Material\t:Elastomer,Size:\tRegular,Touchscreen:\tYes,Water Resistant\t:Yes,Water Resistance Depth:\t50 m,Usage:\tFitness & Outdoor,  Ideal :For\tMen,   Strap Colour:\tBlack,   Dial Colour\t:Black",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "102",
+    "name": "Samsung Galaxy Watch Active",
+    "company": "Samsung Galaxy",
+    "image": "https://i.gadgets360cdn.com/products/large/samsung-galaxy-watch-active-main-448x800-1561459523.jpg?downsize=*:180",
+    "price": 22898,
+    "description": "Model Name\tWatch Series: 2,  Dial Shape:\tRectangle, Strap Material:\tStainless Steel, Size\t:Regular,  Touchscreen\t:Yes,  Water Resistant\t:Yes,  Water Resistance: Depth\t50 m,  Usage\t:Fitness & Outdoor,  Dial Material\t:Aluminum,  Ideal: For\tUnisex,  Strap Colour\t:Midnight Blue,  Dial Colour\t:Black",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "103",
+    "name": "Samsung Galaxy Watch Active 2",
+    "company": "Samsung Galaxy",
+    "image": "https://rukminim2.flixcart.com/image/832/832/kusph8w0/smartwatch/h/x/5/android-ios-sm-r820nzkiinu-sm-r820nzkainu-samsung-yes-original-imag7ugzueycpbsm.jpeg?q=70",
+    "price": 16999,
+    "description": "Dial Shape: Round,   Strap Color:    Black,   Strap Material:  Silicone,   Size:  Regular,   Touchscreen: Yes,   Water Resistant: Yes, Water Resistance Depth: 50 m, Usage:  Fitness & Outdoor, Dial Material: Aluminium, Ideal For:  Men & Women, Compatible OS:  Android & iOS",
+    "category": "watch",
+    "featured": "true"
+  },
+  {
+    "id": "104",
+    "name": "Samsung Galaxy Watch 3",
+    "company": "Samsung Galaxy",
+    "image": "https://i.gadgets360cdn.com/products/large/Galaxy-Watch-3-45mm-4G-DB-552x800-1596688704.jpg?downsize=*:180",
+    "price": 14999,
+    "description": "Model Name\tWatch Series: 2,  Dial Shape:\tRectangle, Strap Material:\tStainless Steel, Size\t:Regular,  Touchscreen\t:Yes,  Water Resistant\t:Yes,  Water Resistance: Depth\t50 m,  Usage\t:Fitness & Outdoor,  Dial Material\t:Aluminum,  Ideal: For\tUnisex,  Strap Colour\t:Midnight Blue,  Dial Colour\t:Black",
+    "category": "watch",
+    "featured": "true"
+  }
+]
