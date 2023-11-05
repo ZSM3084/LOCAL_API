@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": "a",
     "name": "HP Laptop 15s",
     "company": "hp",
     "image": "https://m.media-amazon.com/images/I/71WDKRWNdaL._SX679_.jpg",
@@ -10,7 +10,7 @@
     "featured": "true"
   },
   {
-    "id": "2",
+    "id": "b",
     "name": "HP Laptop 15",
     "company": "hp",
     "image": "https://m.media-amazon.com/images/I/41JDEdq1dhL._SX300_SY300_QL70_FMwebp_.jpg",
@@ -20,7 +20,7 @@
     "featured": "true"
   },
   {
-    "id": "3",
+    "id": "c",
     "name": "HP Laptop 14",
     "company": "hp",
     "image": "https://m.media-amazon.com/images/I/71autn2SMlL._SX679_.jpg",
@@ -30,7 +30,7 @@
     "featured": "true"
   },
   {
-    "id": "4",
+    "id": "d",
     "name": "HP Laptop 14s",
     "company": "hp",
     "image": "https://m.media-amazon.com/images/I/71vW1oV0iZL._SX679_.jpg",
@@ -40,7 +40,7 @@
     "featured": "true"
   },
   {
-    "id": "5",
+    "id": "e",
     "name": "Hp Pavilion X360",
     "company": "hp",
     "image": "https://m.media-amazon.com/images/I/71GdYabc8jL._SX679_.jpg",
@@ -50,7 +50,7 @@
     "featured": "true"
   },
   {
-    "id": "6",
+    "id": "f",
     "name": "HP Pavilion 14",
     "company": "hp",
     "image": "https://m.media-amazon.com/images/I/71qYI+RGdcL._SX679_.jpg",
@@ -60,7 +60,7 @@
     "featured": "true"
   },
   {
-    "id": "7",
+    "id": "g",
     "name": "HP Pavilion 15",
     "company": "hp",
     "image": "https://m.media-amazon.com/images/I/71osgtCE8JL._SX679_.jpg",
@@ -70,7 +70,7 @@
     "featured": "true"
   },
   {
-    "id": "8",
+    "id": "h",
     "name": "HP Pavilion 17 ",
     "company": "hp",
     "image": "https://m.media-amazon.com/images/I/71HmDkflhuL._SX679_.jpg",
@@ -80,7 +80,7 @@
     "featured": "true"
   },
   {
-    "id": "9",
+    "id": "i",
     "name": "HP Pavilion Gaming ",
     "company": "hp",
     "image": "https://m.media-amazon.com/images/I/51SK9O-pKrL._SX679_.jpg",
@@ -90,7 +90,7 @@
     "featured": "true"
   },
   {
-    "id": "10",
+    "id": "j",
     "name": "HP Chromebook",
     "company": "hp",
     "image": "https://m.media-amazon.com/images/I/71V4DKmO5XL._SX679_.jpg",
@@ -100,7 +100,7 @@
     "featured": "true"
   },
   {
-    "id": "11",
+    "id": "k",
     "name": "ASUS ZenBook Duo UX482",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/81q445q8JqL._SX679_.jpg",
@@ -110,7 +110,7 @@
     "featured": "true"
   },
   {
-    "id": "12",
+    "id": "l",
     "name": "ASUS ZenBook Pro Duo(UX581)",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/91VR2ZXL9LL._SX679_.jpg",
@@ -120,7 +120,7 @@
     "featured": "true"
   },
   {
-    "id": "13",
+    "id": "m",
     "name": "ASUS ZenBook Pro Duo 15",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/81J9wwm9WxL._SX679_.jpg",
@@ -130,7 +130,7 @@
     "featured": "true"
   },
   {
-    "id": "14",
+    "id": "n",
     "name": "ASUS ZenBook Duo 14",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/71uuDYxn3XL._SX522_.jpg",
@@ -140,7 +140,7 @@
     "featured": "true"
   },
   {
-    "id": "15",
+    "id": "o",
     "name": "ASUS ZenBook Duo UX481",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/81PGX7kO4kL._SX679_.jpg",
@@ -150,7 +150,7 @@
     "featured": "true"
   },
   {
-    "id": "16",
+    "id": "p",
     "name": "ASUS Vivobook S 15 OLED",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/71eQy-sS8GL._SX679_.jpg",
@@ -160,7 +160,7 @@
     "featured": "true"
   },
   {
-    "id": "17",
+    "id": "q",
     "name": "Asus ZenBook Flip 13 (UX362)",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/71XFkFyRL6L._SX679_.jpg",
@@ -170,7 +170,7 @@
     "featured": "true"
   },
   {
-    "id": "18",
+    "id": "r",
     "name": "Asus ZenBook Flip 14 (UX461)",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/813Ami4bOuL._SX679_.jpg",
@@ -180,7 +180,7 @@
     "featured": "true"
   },
   {
-    "id": "19",
+    "id": "s",
     "name": "ASUS Zenbook S 13 OLED",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/71HirpAPlSL._SX679_.jpg",
@@ -190,7 +190,7 @@
     "featured": "true"
   },
   {
-    "id": "20",
+    "id": "t",
     "name": "Asus ZenBook Flip UX560",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/71zJNkAPiBL._SX679_.jpg",
@@ -200,7 +200,7 @@
     "featured": "true"
   },
   {
-    "id": "21",
+    "id": "u",
     "name": "ASUS ZenBook Duo 14 UX482 14",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/81MfMZUposL._SX679_.jpg",
@@ -210,7 +210,7 @@
     "featured": "true"
   },
   {
-    "id": "22",
+    "id": "v",
     "name": "Asus ZenBook Pro 15 (UX580)",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/71yKxEaoVqL._SX679_.jpg",
@@ -220,7 +220,7 @@
     "featured": "true"
   },
   {
-    "id": "23",
+    "id": "w",
     "name": "ASUS ZenBook S UX391",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/71yDPOErw3L._SX679_.jpg",
@@ -230,7 +230,7 @@
     "featured": "true"
   },
   {
-    "id": "24",
+    "id": "x",
     "name": "Asus ZenBook S (UX392)",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/814VES1gSEL._SX679_.jpg",
@@ -240,7 +240,7 @@
     "featured": "true"
   },
   {
-    "id": "25",
+    "id": "y",
     "name": "Asus ZenBook S (UX393)",
     "company": "Asus",
     "image": "https://i.gadgets360cdn.com/products/large/Asus-ZenBook-s-DB-710x800-1598958177.jpg?downsize=*:180",
@@ -250,7 +250,7 @@
     "featured": "true"
   },
   {
-    "id": "26",
+    "id": "z",
     "name": "Asus ZenBook 13 (UX331)",
     "company": "Asus",
     "image": "https://i.gadgets360cdn.com/products/laptops/large/1546456228_635_asus_zenbook-13-ux331ual.jpg?downsize=*:180",
@@ -260,7 +260,7 @@
     "featured": "true"
   },
   {
-    "id": "27",
+    "id": "aa",
     "name": "Asus ZenBook 13 (UX334)",
     "company": "Asus",
     "image": "https://i.gadgets360cdn.com/products/large/1558948579_635_asus_zenbook_13_db.jpg?downsize=*:180",
@@ -270,7 +270,7 @@
     "featured": "true"
   },
   {
-    "id": "28",
+    "id": "ab",
     "name": "Asus ZenBook 13 (UX325)",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/717T1b5JIxL._SX679_.jpg",
@@ -280,7 +280,7 @@
     "featured": "true"
   },
   {
-    "id": "29",
+    "id": "ac",
     "name": "Asus ZenBook 13 (UX325EA)",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/71qSNZSBxkL._SX679_.jpg",
@@ -290,7 +290,7 @@
     "featured": "true"
   },
   {
-    "id": "30",
+    "id": "ad",
     "name": "Asus ZenBook 14 (UX433)",
     "company": "Asus",
     "image": "https://m.media-amazon.com/images/I/71XZTGeppAL._SX679_.jpg",
